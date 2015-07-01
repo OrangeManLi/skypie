@@ -1,0 +1,8 @@
+{"file":"settingscreen.png","frames":{
+"about_logo2_png":{"x":1,"y":1,"w":233,"h":240,"offX":0,"offY":0,"sourceW":233,"sourceH":240},
+"howtoplay_1_png":{"x":1,"y":243,"w":302,"h":172,"offX":0,"offY":0,"sourceW":302,"sourceH":172},
+"howtoplay_2_png":{"x":1,"y":417,"w":294,"h":147,"offX":0,"offY":0,"sourceW":294,"sourceH":147},
+"howtoplay_prev_png":{"x":236,"y":135,"w":66,"h":65,"offX":2,"offY":1,"sourceW":68,"sourceH":66},
+"howtoplay_return_png":{"x":304,"y":68,"w":65,"h":65,"offX":2,"offY":1,"sourceW":69,"sourceH":66},
+"howtoplay_next_png":{"x":236,"y":68,"w":66,"h":65,"offX":1,"offY":1,"sourceW":67,"sourceH":66},
+"about_logo_png":{"x":236,"y":1,"w":222,"h":65,"offX":1,"offY":1,"sourceW":226,"sourceH":67}}}

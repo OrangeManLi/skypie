@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin xmlns:e="http://ns.egret-labs.org/egret" xmlns:w="http://ns.egret-labs.org/wing">
+	<w:HostComponent name="egret.gui.SkinnableComponent"/>
+	<w:Declarations/>
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:UIAsset source="about_background"/>
+	<e:Label fontFamily="Arial" bold="true" textColor="0x004F5D" size="22" horizontalCenter="125" top="240" text="新浪微博@btn-img"/>
+	<e:UIAsset source="about_logo2_png" horizontalCenter="-113.5" bottom="148"/>
+	<e:Button id="backButton" label="返回" width="446" horizontalCenter="0" bottom="49"/>
+	<e:Label textColor="9803157" fontFamily="Arial" size="12" horizontalCenter="0" bottom="21" text="version:1.0.0"/>
+	<e:Label text="Egret Games" textColor="20317" bold="true" fontFamily="Arial" horizontalCenter="128.5" top="349" size="20"/>
+	<e:UIAsset source="loading_logo" y="41" width="428" height="91" horizontalCenter="0"/>
+	<e:Label text="orangemanli@163.com" bold="true" textColor="0x004F5D" size="22" x="275" y="280"/>
+</e:Skin>

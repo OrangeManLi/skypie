@@ -1,0 +1,24 @@
+{
+"resources":
+	[
+		{"name":"bgImage","type":"image","url":"assets/bg.jpg"},
+		{"name":"btnStart","type":"image","url":"assets/btn_start.png"},
+        {"name":"logo","type":"image","url":"assets/logo.png"},
+        {"name":"p1","type":"image","url":"assets/p1.png"},
+        {"name":"pie1","type":"image","url":"assets/pie1.png"},
+        {"name":"pie2","type":"image","url":"assets/pie2.png"},
+        {"name":"pie3","type":"image","url":"assets/pie3.png"},
+        {"name":"pie4","type":"image","url":"assets/pie4.png"},
+        {"name":"pie5","type":"image","url":"assets/pie5.png"},
+        {"name":"pie6","type":"image","url":"assets/pie6.png"},
+        {"name":"pie7","type":"image","url":"assets/pie7.png"},
+        {"name":"p2_png","type":"image","url":"assets/p2.png"},
+        {"name":"p2_json","type":"json","url":"assets/p2.json"}
+
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"bgImage,bgImage,btnStart,logo,p1,pie1,pie2,pie3,pie4,pie5,pie6,pie7,p2_png,p2_json"}
+	]
+}
