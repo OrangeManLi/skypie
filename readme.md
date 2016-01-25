@@ -8,3 +8,5 @@
 <p>
 游戏名为《天降美食》，控制小怪物吃从天而降的美食。
 </p>
+
+[效果链接](http://orangeapp.applinzi.com/skypie/)
