@@ -10,3 +10,11 @@
 </p>
 
 [效果链接](http://orangeapp.applinzi.com/skypie/)
+
+![开始](/img/s1.png "Optional title")
+
+![游戏中](/img/s2.png "Optional title")
+
+![设置](/img/s3.png "Optional title")
+
+![结束](/img/s4.png "Optional title")
